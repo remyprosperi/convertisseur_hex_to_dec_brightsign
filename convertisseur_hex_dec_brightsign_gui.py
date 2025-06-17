@@ -30,7 +30,7 @@ def effacer():
 window = tk.Tk()
 window.title("Convertisseur Hex to Dec Brightsign")
 window.geometry("500x250")
-window.iconbitmap("C:/Users/Rémy Prosperi/OneDrive - Rc Group/Documents/@_MesNotes/PYTHON/convertisseur.ico")
+window.iconbitmap("C:/Users/Rémy Prosperi/OneDrive - Rc Group/Documents/@_MesNotes/PYTHON/convertisseur_hex_to_dec_brightsign/convertisseur.ico")
 
 label = tk.Label(window,text="Entrez les valeurs en hex séparées par des espaces :")
 label.pack(pady=10)
